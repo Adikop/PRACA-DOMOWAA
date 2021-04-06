@@ -19,3 +19,5 @@ def draw():
     if hex(get(mouseX, mouseY)) =='FF0000FF':
         fill(200, 0, 150)
         text("Adrian K", width/14, height/1.5)
+      #brakuje zaznaczania napisu na klikanie A i K na klawiaturze  
+#1,25pkt
